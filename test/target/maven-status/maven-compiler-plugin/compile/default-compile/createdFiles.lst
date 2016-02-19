@@ -1,0 +1,5 @@
+com\weather\Sys.class
+com\weather\City.class
+com\weather\Coord.class
+com\weather\WeatherDto.class
+com\weather\TestApplication.class
