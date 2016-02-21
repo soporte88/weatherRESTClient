@@ -57,7 +57,7 @@ public class TestApplicationTests {
 	final String urlGroup = baseUrl+"group";
 	
 	/** The app id. */
-	final String appId = "443d426df86b1a15193ae59b476450f8";
+	final String appId = "X";
 	
 	/** The city. */
 	private String city = "524901";
